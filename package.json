@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ccxt": "^4.1.76",
+    "ccxt": "4.1.58",
     "debug": "^4.3.4",
     "lodash": "^4.17.21"
   }
